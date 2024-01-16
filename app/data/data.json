@@ -1,0 +1,144 @@
+{
+    "hero": {
+      "name": "Taisiia Efremova",
+      "position": "Experienced Frontend Developer passionate about crafting exceptional user experiences, proficient in JavaScript, React, Vue, and an expert in Headless CMS integration."
+    },
+    "contacts": {
+      "birthdate": "09.07.1991",
+      "nationality": "Russian (Swiss B Permit)",
+      "address": "Route de la Combaz 48B, 3963 Crans-Montana, Switzerland",
+      "phone": "+41 78 220 54 85",
+      "email": "taisiia.efremova@gmail.com"
+    },
+    "experience": [
+      {
+        "title": "Senior Frontend Developer",
+        "company": "Nueva ZRH",
+        "location": "Switzerland - Zürich",
+        "date": "03/23 - 12/23",
+        "projects": [
+          "Stiftung Klik - klik.ch",
+          "Spool - spool.ch",
+          "Salza GmbH Online-Platform Components for Reuse - salza.ch",
+          "Feldschlösschen website and Competition Platform"
+        ],
+        "responsibilities": [
+          "Creation of responsive websites for customers with semantic HTML5, JavaScript, Vue, Nuxt, and Storyblok CMS",
+          "Pixel-perfect implementation of web designs in high-performance web applications",
+          "Implementation of new, modular UI components, documented using Storybook",
+          "Identification and solution of performance problems"
+        ],
+        "technologies": [
+          "Vue",
+          "Vuex",
+          "Nuxt",
+          "Pinia",
+          "Strapi CMS",
+          "Storyblok",
+          "Umbraco",
+          "Storybook",
+          "Vercel",
+          "Mailchimp",
+          "Kubernetes"
+        ]
+      },
+      {
+        "title": "Frontend Developer",
+        "company": "Paysend",
+        "location": "England - Remote",
+        "date": "08/21 - 03/23",
+        "projects": [
+          "Paysend Geldtransfer-Website - paysend.com"
+        ],
+        "responsibilities": [
+          "Development of an internal UI library for React.JS components",
+          "Responsible for maintaining and ensuring the quality of the customer-oriented front end",
+          "Integration of third-party API for the HR department (Node.js Headless CMS - Strapi)",
+          "Migration of the legacy backend to the new headless CMS architecture"
+        ],
+        "technologies": [
+          "React",
+          "Redux",
+          "SSR",
+          "Strapi CMS",
+          "PostgreSQL",
+          "Postman"
+        ]
+      },
+      {
+        "title": "Frontend Developer",
+        "company": "Getdrinks e-commerce",
+        "location": "Moscow - Russia",
+        "date": "04/20 - 08/21",
+        "projects": [
+          "Online beer shop Getdrinks - getdrinks.ru"
+        ],
+        "responsibilities": [
+          "Modernisation of the responsive design of the landing page including optimization for mobile devices",
+          "Prototyping, design, and close collaboration with the UI/UX team to create an engaging customer journey",
+          "Creation of a customized e-mail template"
+        ],
+        "technologies": [
+          "React",
+          "Redux-Thunk",
+          "Next",
+          "SCSS",
+          "Storybook"
+        ]
+      },
+      {
+        "title": "Frontend Developer",
+        "company": "Centre of Fishery Monitoring and Communications",
+        "location": "Moscow - Russia",
+        "date": "11/19 - 04/20",
+        "projects": [
+          "Fishing control platform - cfmc.ru"
+        ],
+        "responsibilities": [
+          "Prototyping, design, and close collaboration with the UI/UX team to create an engaging customer journey",
+          "Modernisation of the responsive design of the landing page, including optimization for mobile devices"
+        ],
+        "technologies": [
+          "Vue",
+          "Typescript",
+          "Vuetify"
+        ]
+      },
+      {
+        "title": "Frontend Developer",
+        "company": "Freelance",
+        "location": "Prague - Czech Republic",
+        "date": "04/19 - 10/19",
+        "projects": [
+          "Recycling map"
+        ],
+        "responsibilities": [
+          "Conception/development/cross-browser testing"
+        ],
+        "technologies": [
+          "React",
+          "Javascript",
+          "PHP, Laravel",
+          "React Google maps"
+        ]
+      },
+      {
+        "title": "Frontend Developer",
+        "company": "Freelance",
+        "location": "Moscow - Russia",
+        "date": "06/17 - 04/19",
+        "projects": [
+          "kleine Projekte (aquaworks.ru)"
+        ],
+        "responsibilities": [
+          "Developing and editing templates for websites to ensure functionality, aesthetics, and usability and to create appealing and professional online projects"
+        ],
+        "technologies": [
+          "Javascript",
+          "CSS",
+          "Bitrix 1C CMS"
+        ]
+      }
+    ]
+  }
+  

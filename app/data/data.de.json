@@ -1,0 +1,145 @@
+{
+    "hero": {
+      "name": "Taisiia Efremova",
+      "position": "Erfahrene Frontend-Entwicklerin mit Leidenschaft für die Gestaltung außergewöhnlicher Benutzererlebnisse, versiert in JavaScript, React, Vue und Experte für die Integration von Headless CMS."
+    },
+    "contacts": {
+      "birthdate": "09.07.1991",
+      "nationality": "Russisch (Schweizer B-Bewilligung)",
+      "address": "Route de la Combaz 48B, 3963 Crans-Montana, Schweiz",
+      "phone": "+41 78 220 54 85",
+      "email": "taisiia.efremova@gmail.com"
+    },
+    "experience": [
+      {
+        "title": "Senior Frontend-Entwicklerin",
+        "company": "Nueva ZRH",
+        "location": "Schweiz - Zürich",
+        "date": "03/23 - 12/23",
+        "projects": [
+          "Stiftung Klik - klik.ch",
+          "Spool - spool.ch",
+          "Salza GmbH Online-Plattform Bauteile zur Wiederverwendung - salza.ch",
+          "Feldschlösschen website und Wettbewerb Platform"
+        ],
+        "responsibilities": [
+          "Erstellung von responsiven Webseiten für Kunden mit semantischem HTML5, JavaScript, Vue, Nuxt und Storyblok CMS",
+          "Umsetzung neuer, modularer UI-Komponenten, die unter Verwendung die mit Storybook dokumentiert wurden",
+          "Pixelgenaue Umsetzung von Webdesigns in performante Webanwendungen",
+          "Identifikation und Lösung von Performance-Problemen"
+        ],
+        "technologies": [
+          "Vue",
+          "Vuex",
+          "Nuxt",
+          "Pinia",
+          "Strapi CMS",
+          "Storyblok",
+          "Umbraco",
+          "Storybook",
+          "Vercel",
+          "Mailchimp",
+          "Kubernetes"
+        ]
+      },
+      {
+        "title": "Frontend-Entwicklerin",
+        "company": "Paysend",
+        "location": "England - Remote",
+        "date": "08/21 - 03/23",
+        "projects": [
+          "Paysend Geldtransfer-Website - paysend.com"
+        ],
+        "responsibilities": [
+          "Entwicklung einer intern UI-Bibliothek für React.JS-Komponenten",
+          "Verantwortlich für die Aufrechterhaltung und Sicherstellung der Qualität des kundenorientierten Frontends.",
+          "Integration der API von Drittanbietern für die Personalabteilung (Node.js Headless CMS - Strapi)",
+          "Migration des Legacy-Backends auf die neue Headless CMS-Architektur."
+        ],
+        "technologies": [
+          "React",
+          "Redux",
+          "SSR",
+          "Strapi CMS",
+          "PostgreSQL",
+          "Postman"
+        ]
+      },
+      {
+        "title": "Frontend-Entwicklerin",
+        "company": "Getdrinks e-commerce",
+        "location": "Moskau - Russland",
+        "date": "04/20 - 08/21",
+        "projects": [
+          "Online-Biershop Getdrinks - getdrinks.ru"
+        ],
+        "responsibilities": [
+          "Modernisierung des responsiven Designs der Landing Page einschließlich Optimierung für mobile Geräte.",
+          "Prototyping, Design und enge Zusammenarbeit mit dem UI/UX-Team zur Schaffung einer ansprechenden Customer Journey.",
+          "Erstellung eines benutzerdefinierten E-Mail-Templates."
+        ],
+        "technologies": [
+          "React",
+          "Redux-Thunk",
+          "Next",
+          "SCSS",
+          "Storybook"
+        ]
+      },
+      {
+        "title": "Frontend-Entwicklerin",
+        "company": "Zentrum für Fischereikontrolle",
+        "location": "Moskau - Russland",
+        "date": "11/19 - 04/20",
+        "projects": [
+          "Fischereikontrolle Platform - cfmc.ru"
+        ],
+        "responsibilities": [
+          "Prototyping, Design und enge Zusammenarbeit mit dem UI/UX-Team zur Schaffung einer ansprechenden Customer Journey.",
+          "Modernisierung des responsiven Designs der Landing Page einschließlich Optimierung für mobile Geräte."
+        ],
+        "technologies": [
+          "Vue",
+          "Typescript",
+          "Vuetify"
+        ]
+      },
+      {
+        "title": "Frontend-Entwicklerin",
+        "company": "Freiberufler",
+        "location": "Prague - Tschechien",
+        "date": "04/19 - 10/19",
+        "projects": [
+          "Recycling-Karte"
+        ],
+        "responsibilities": [
+          "Konzeption/Entwicklung/Cross-Browser Testing"
+        ],
+        "technologies": [
+          "React",
+          "Javascript",
+          "PHP",
+          "Laravel",
+          "React Google maps"
+        ]
+      },
+      {
+        "title": "Frontend-Entwicklerin",
+        "company": "Freiberufler",
+        "location": "Moskau - Russland",
+        "date": "06/17 - 04/19",
+        "projects": [
+          "kleine Projekte (aquaworks.ru)"
+        ],
+        "responsibilities": [
+          "Entwicklung und Bearbeitung von Vorlagen für Websites, um Funktionalität, Ästhetik und Benutzerfreundlichkeit sicherzustellen und ansprechende sowie professionelle Online-Projekte zu gestalten."
+        ],
+        "technologies": [
+          "Javascript",
+          "CSS",
+          "Bitrix 1C CMS"
+        ]
+      }
+    ]
+  }
+  
